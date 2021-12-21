@@ -21,7 +21,7 @@
 	"title": "My article",
 	"body": "Lorem ipsum",
 	"author": "637b8eba-c293-4cd4-8bac-8c271d88113c"
-}'
+    }'
   ```
 
 ### Autor <div id="autor"></div>
