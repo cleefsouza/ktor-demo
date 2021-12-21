@@ -3,7 +3,8 @@
 > Demo API com Kotlin e Ktor disponibilizado pela therelicans.com
 
 ### Tecnologias Usadas
-- Go
+- Kotlin
+- Ktor
 
 ### Executando
 - Clone o projeto:
